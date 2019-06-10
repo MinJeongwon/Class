@@ -1,1 +1,1 @@
-hi
+print("i love u")
